@@ -1,9 +1,14 @@
 {
-  "name": "optimisedsvgs",
-  "description": "Optimised SVGs",
+  "name": "optimised-svgs",
+  "description": "A repository of optimised SVGs that we've used once or multiple times in our projects.",
+  "homepage": "https://github.com/perfectwebteam/optimised-svgs",
   "author": "Perfect Web Team",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perfectwebteam/optimised-svgs.git"
-  }
+    "url": "https://github.com/perfectwebteam/optimised-svgs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/perfectwebteam/optimised-svgs/issues"
+  },
+  "license": "MIT"
 }
