@@ -1,0 +1,9 @@
+{
+  "name": "optimisedsvgs",
+  "description": "Optimised SVGs",
+  "author": "Perfect Web Team",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfectwebteam/optimised-svgs.git"
+  }
+}
